@@ -1,0 +1,51 @@
+CSB14001	Uddipana Dihingia
+CSB14003	Arindam Nandi
+CSB14004	Jyotirmoy Poddar
+CSB14005	Debojyoti Paul
+CSB14006	Tanna Choudhury
+CSB14007	Prakash Kumar Gupta
+CSB14009	Shreyasee Dev
+CSB14010	Sanjeeb Dhar
+CSB14011	Gautam Baruah
+CSB14012	Pallab Borah
+CSB14013	Sangeet Patawari
+CSB14015	Jyotimoy Kakoty
+CSB14017	Bicky Kumar Jaiswal
+CSB14018	Pradumnya Borah
+CSB14019	Nabadip Borah
+CSB14020	Aparajita Gohain
+CSB14021	Raghudev Sahu
+CSB14022	Filza Piya Borah
+CSB14023	Rohit Paul
+CSB14024	Bishal Nath
+CSB14025	Rituporna Dowerah
+CSB14027	Arniban Borah
+CSB14028	Supriya Das
+CSB14029	Bhaskar Sarkar
+CSB14030	Abhijit Agarwalla
+CSB14032	Jhunuraj Brahma
+CSB14033	Sarajit Deka
+CSB14034	Kalpa Jyoti Das
+CSB14035	Kalpamay Mashahary
+CSB14036	Asraf Uddin Ahmed
+CSB14038	Prateek Kumar
+CSB14039	Ashish Kumar Verma
+CSB14040	Nikhil Dixit
+CSB14041	Peetha Rohit Varma
+CSB14042	Arghya Dutta
+CSB14043	Sigarambotla Surya Jaswanth
+CSB14044	Sunidhi Chaurasia
+CSB14045	Shravan Kumar
+CSB14046	Sunil Kumar Singh
+CSB14047	Pratik Dixit
+CSB14048	Dasari Revanth
+CSB14049	Alok Kumar
+CSB14050	Rajesh Kumbang
+CSB14051	Shubham Kumar
+CSB14052	Prabhat Kumar
+CSB14054	Mannem Vamshi
+CSB14055	Pashupati Nath Prasad
+CSB14056	Pankaj Kumar Sharma
+CSB14061	Prince Mishra
+CSB14062	Angshuman Biswas
+CSB14063	Gaurav Agarwal
